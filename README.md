@@ -1,5 +1,11 @@
 ## Привет 👋 Меня зовут Любовь!
 
+<div align="center">
+  <a href="https://t.me/qa_notes_inside" target="_blank">   
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
 ## О себе
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEyczN1b3llb2dsZnQyOWxvOTgwanl2dGtwMHNzbXR5YWZrbGE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OdHeYw7XBk6EE/giphy.gif" width="175" alt="Sheldon" />
