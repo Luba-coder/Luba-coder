@@ -107,14 +107,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- Замените {your-username} на Luba-coder после создания репозитория -->
-[![Stats](https://github-readme-stats.vercel.app/api?username=Luba-coder&show_icons=true&theme=radical&hide_border=true)](https://github.com/Luba-coder)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luba-coder&layout=compact&theme=radical&hide_border=true)](https://github.com/Luba-coder)
-
----
-
 ## 💼 Сотрудничество
 
 Открыта к интересным проектам в сферах:
