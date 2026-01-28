@@ -6,15 +6,15 @@
   </a>
 </div>
 
-## О себе
+## 👩‍💻 О себе
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEyczN1b3llb2dsZnQyOWxvOTgwanl2dGtwMHNzbXR5YWZrbGE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OdHeYw7XBk6EE/giphy.gif" width="175" alt="Sheldon" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWEyczN1b3llb2dsZnQyOWxvOTgwanl2dGtwMHNzbXR5YWZrbGE1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OdHeYw7XBk6EE/giphy.gif" width="200" alt="Sheldon" />
 
 Ведущий специалист по тестированию ПО в компании СимбирСофт с 2021 года.
 
 Участвовала в полном цикле разработки в составе кросс-функциональных команд, включая проекты для логистической отрасли и разработки AI-решений (с фокусом на разметке данных для обучения моделей).
 
-На текущий момент изучаю автоматизацию Python и изучаю тестирование ИИ
+💻 На текущий момент изучаю автоматизацию Python и изучаю тестирование ИИ
 
 ## Опыт работы
 
@@ -53,7 +53,7 @@
 - Ведение канала «Записки тестировщика» [@qa_notes_inside](https://t.me/qa_notes_inside) с 2025 года
 
 ---
-## Технологии и инструменты
+## 🛠 Технологии и инструменты
 
 ### Автоматизация
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
@@ -104,12 +104,18 @@
 
 ---
 
-## Статьи
+## 📕 Мои статьи
 
 - [SBTM: управляемый подход к исследовательскому тестированию для бизнеса](https://www.simbirsoft.com/blog/sbtm-upravlyaemyy-podkhod-k-issledovatelskomu-testirovaniyu-dlya-biznesa/)
 - [Тестирование RAG. Часть 1](https://telegra.ph/Testirovanie-RAG-11-12)
 - [Мой опыт установки локальной нейросети на Linux](https://telegra.ph/Moj-opyt-ustanovki-lokalnoj-nejroseti-na-Linux-08-08)
 - [Что такое Риск-ориентированное тестирование (RBT)](https://telegra.ph/CHto-takoe-Risk-orientirovannoe-testirovanie-RBT-10-02)
+
+---
+
+<p align="center">
+  <img src="assets/github-snake.svg" alt="snake" width="600"/>
+</p>
 
 ---
 
