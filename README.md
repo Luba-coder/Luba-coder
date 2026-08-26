@@ -14,7 +14,7 @@
 
 Участвовала в полном цикле разработки в составе кросс-функциональных команд, включая проекты для логистической отрасли и разработки AI-решений (с фокусом на разметке данных для обучения моделей).
 
-💻 На текущий момент изучаю автоматизацию Python и изучаю тестирование ИИ
+💻 На текущий момент изучаю автоматизацию Python и AI Evaluation
 
 ## 🧪 Опыт работы
 
@@ -40,7 +40,7 @@
 ### Развитие в области ИИ
 - Тестирование ИИ-компонентов и изучение применения ИИ в тестировании
 - Теоретическое освоение тестирования диаризации
-- Промпт-инжиниринг: генерация текстов, изображений, изучение генерации видео
+- Промпт-инжиниринг: генерация текстов, изображений
 - Разработка AI-агентов: реализация агента на n8n с интеграцией в Telegram, проектирование агентов в YandexGPT
 
 ### Автоматизация на Python
@@ -48,6 +48,11 @@
 
 ### Профессиональный контент
 - Ведение канала «Записки тестировщика» [@qa_notes_inside](https://t.me/qa_notes_inside) с 2025 года
+
+### AI Evaluation — учебная практика
+- Формирование оценочного датасета в Excel с использованием Python-скрипта, запуск и анализ оценки качества ответов AI-модели. 
+Изучила подходы к оценке ML/DL-моделей, LLM, RAG-систем, AI-агентов, многоходовых и мультимодальных AI-систем.
+Работала с DeepEval, Ragas, Promptfoo, Eval_lib, Opik (Comet), Langfuse и LangSmith.
 
 ---
 ## 🛠 Технологии и инструменты
@@ -93,6 +98,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black)
 
+### AI Evaluation — учебная практика
+![DeepEval](https://img.shields.io/badge/DeepEval-0F766E?style=flat-square)
+![Ragas](https://img.shields.io/badge/Ragas-7C3AED?style=flat-square)
+![Promptfoo](https://img.shields.io/badge/Promptfoo-F97316?style=flat-square)
+![Eval_lib](https://img.shields.io/badge/Eval__lib-3776AB?style=flat-square&logo=python&logoColor=white)
+![Opik](https://img.shields.io/badge/Opik%20(Comet)-2563EB?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-1F2937?style=flat-square)
+![LangSmith](https://img.shields.io/badge/LangSmith-059669?style=flat-square)
+
 ---
 
 ## 📂 Проекты
@@ -128,10 +142,10 @@
 - Автоматизация тестирования (Cypress, Python)
 
 ### Контакты:
-📧 email: Luba-coder@yandex.ru<br>
-📫 телеграм: [@Lubov_Qa_NiNo](https://t.me/Lubov_Qa_NiNo)</a><br>
+📧 email: Luba-coder@gmail.com<br>
+📫 тг: [@Lubov_Qa_NiNo](https://t.me/Lubov_Qa_NiNo)</a><br>
 🌐 Блог: [t.me/qa_notes_inside](https://t.me/qa_notes_inside)</a>
 
 ---
 
-*Последнее обновление: январь 2026*
+*Последнее обновление: август 2026*
