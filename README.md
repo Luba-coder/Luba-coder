@@ -142,10 +142,11 @@
 - Автоматизация тестирования (Cypress, Python)
 
 ### Контакты:
-📧 email: Luba-coder@gmail.com<br>
-📫 тг: [@Lubov_Qa_NiNo](https://t.me/Lubov_Qa_NiNo)</a><br>
-🌐 Блог: [t.me/qa_notes_inside](https://t.me/qa_notes_inside)</a>
+📧 Email: [Luba-coder@gmail.com](mailto:Luba-coder@gmail.com)<br>
+💙 ВКонтакте: [Записки тестировщицы](https://vk.ru/qa_ai_design)<br>
+📫 Telegram: [@Lubov_Qa_NiNo](https://t.me/Lubov_Qa_NiNo)<br>
+🌐 Блог: [QA: записки тестировщика](https://t.me/qa_notes_inside)
 
 ---
 
-*Последнее обновление: август 2026*
+*Последнее обновление: ноябрь 2026*
