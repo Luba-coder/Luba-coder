@@ -131,7 +131,7 @@
 ---
 ## 🏆 Сертификаты
 
-[Полученные сертификаты](https://github.com/Luba-coder/Luba-coder/upload/main/Certificates)
+[Полученные сертификаты](https://github.com/Luba-coder/Luba-coder/tree/main/Certificates)
 
 ---
 
